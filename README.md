@@ -2,7 +2,7 @@
 
 Submitted by: **Andrej Bozin**
 
-**Color Changer** is an app that... [TODO] 
+**Color Changer** is an app that changes the background color of an app to a random color. 
 
 Time spent: **1** hour spent in total
 
@@ -41,11 +41,11 @@ MindFlow is a mindfulness app that combines elements from various meditation and
    - A community aspect for sharing experiences and tips on staying focused and mindful throughout the day.
 
 ## Challenges
-Using ctrl+ click and drag to establish a connection with the button was not working for me. Luckily I was able to resolve this issue with the help of technologies silver bullet.
+Using ctrl+ click and drag to establish a connection with the button was not working for me. Luckily I was able to resolve this issue with the help of technologie's silver bullet.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Andrej Bozin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
