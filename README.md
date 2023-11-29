@@ -2,7 +2,7 @@
 
 Submitted by: **Andrej Bozin**
 
-**Color Changer** is an app that changes the background color of an app to a random color. 
+**Color Changer** is an app that changes the background color to a random color when pressing a button. 
 
 Time spent: **1** hour spent in total
 
